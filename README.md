@@ -159,6 +159,4 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
-💡 **Pro Tip**: Customize this project further to include advanced features like **authentication**, **pagination**, or even **API integrations**!
-
 🎉 Happy Coding! 😊
